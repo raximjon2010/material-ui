@@ -1,6 +1,5 @@
 # Using styled-components
 
-<p class="description">Learn how to use styled-components instead of Emotion with Material UI.</p>
 
 :::error
 As of late 2021, [styled-components](https://github.com/styled-components/styled-components) is **not compatible** with server-rendered Material UI projects.
